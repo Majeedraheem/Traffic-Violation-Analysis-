@@ -1,1 +1,1 @@
-The ptoject is about analyzing taffic violation commited 
+The project is about analyzing traffic violation 
