@@ -1,5 +1,5 @@
 
-![alt text](./Images/Background image .png)
+![alt text](./Images/Background.png)
 
 
 # Background :
