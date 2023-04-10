@@ -1,5 +1,5 @@
 
-![alt text](/Users/mac/Desktop/Traffic-Violation-Analysis-/Images/Background image .png)
+![alt text](./Images/Background image .png)
 
 
 # Background :
