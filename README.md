@@ -1,5 +1,5 @@
 The project is about analyzing traffic violation
-![Decorative image.](/Images/Background.png)
+![Traffic violations.](Images/Background.jpg)
 
 ## Background
 
@@ -16,7 +16,7 @@ The goal is to analyze the data to find insights that can help to reduce traffic
 
 ## Examples of insights:
 #Q2: How many Female , Male who committed Traffic violation and what type it’s?
-[](/Images/question_2.png)
+[](Images/question_2.jpg)
 
 ## Conclusion & Recommendation:
 
