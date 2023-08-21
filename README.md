@@ -16,13 +16,13 @@ The goal is to analyze the data to find insights that can help to reduce traffic
 
 ## Examples of insights:
 #Q2: How many Female , Male who committed Traffic violation and what type it’s?
-[](Images/question_2.jpg)
+![Who's committed traffic violation and citation](Images/question_2.jpg)
 
 ## Conclusion & Recommendation:
 
 Data Set has 2750 Female and  6880 Male.
 
-[](Images/femaleVSmale.png)
+![Distribution of Gender in the dataset](Images/femaleVSmale.png)
 Most committed Traffic violation  was made by males but in percentage terms both males and females committed roughly the same level of violations.
 
 
